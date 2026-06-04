@@ -158,6 +158,7 @@ My edge is connecting creative instinct with operational architecture: the conce
 ## Contact
 
 **Email:** mutedscience@icloud.com  
+**Instagram:** https://instagram.com/studyofnight  
 **Morrowgrid:** https://morrowgrid.com  
 **Muted Science:** https://mutedscience.com  
 **Muted Science GitHub:** https://github.com/moonman89/muted-science  
