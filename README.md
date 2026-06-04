@@ -62,16 +62,15 @@ My strength is turning messy operational problems into clear technical systems: 
 
 ## Projects
 
-### Muted Science
-Creative technology project focused on experimental systems, digital tools, automation, visual infrastructure, and AI workflow exploration.
-
-**Website:** https://mutedscience.com  
-**Repository:** https://github.com/moonman89/muted-science
-
 ### GitHub Profile
 Public profile and project archive for AI workflow experiments, creative technology builds, frontend work, and portfolio infrastructure.
 
 **GitHub:** https://github.com/moonman89
+
+### Portfolio / Resume Website
+React-based presentation website with slide-style resume pages, technical stack sections, rotating UI elements, and portfolio navigation.
+
+**Repository:** https://github.com/moonman89/edward-night-resume
 
 ---
 
@@ -112,8 +111,6 @@ That means I can help shape the system, understand the business goal, plan the u
 
 **Email:** mutedscience@icloud.com  
 **Instagram:** https://instagram.com/studyofnight  
-**Muted Science:** https://mutedscience.com  
-**Muted Science GitHub:** https://github.com/moonman89/muted-science  
 **GitHub:** https://github.com/moonman89
 
 ---
