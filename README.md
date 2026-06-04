@@ -46,11 +46,30 @@ Co-building AI-powered workflow and operations systems for companies that need b
 
 **Website:** https://morrowgrid.com
 
+### Muted Science
+A creative technology project focused on experimental systems, digital tools, and visual/business infrastructure.
+
+**GitHub:** https://github.com/moonman89/muted-science
+
 ### Creative Direction + Production
 Producing and directing photo/video projects with a strong visual identity, clean execution, and practical delivery structure.
 
 ### Systems for Creative Businesses
 Helping creative teams, agencies, artists, event companies, and service businesses organize the chaos behind the work: leads, briefs, timelines, vendors, tasks, follow-ups, and client communication.
+
+---
+
+## Projects
+
+### Morrowgrid
+AI-powered workflow and operations systems for companies that need cleaner execution, better task ownership, and stronger follow-up systems.
+
+**Website:** https://morrowgrid.com
+
+### Muted Science
+Experimental creative-tech work combining systems thinking, interface ideas, automation, and visual direction.
+
+**Repository:** https://github.com/moonman89/muted-science
 
 ---
 
@@ -73,6 +92,7 @@ Helping creative teams, agencies, artists, event companies, and service business
 - Internal dashboards and automation systems
 - Outreach, lead management, and follow-up structures
 - Creative operations for teams that need stronger execution
+- Creative technology and experimental digital systems
 
 ---
 
@@ -92,6 +112,7 @@ That means I can help shape the visual idea, organize the production, understand
 - Documentary and field production
 - AI workflow builds
 - Business automation projects
+- Creative technology collaborations
 - Strategic collaborations with founders, agencies, artists, and operators
 
 ---
@@ -100,6 +121,7 @@ That means I can help shape the visual idea, organize the production, understand
 
 **Email:** mutedscience@icloud.com  
 **Morrowgrid:** https://morrowgrid.com  
+**Muted Science:** https://github.com/moonman89/muted-science  
 **GitHub:** https://github.com/moonman89
 
 ---
