@@ -49,6 +49,7 @@ Co-building AI-powered workflow and operations systems for companies that need b
 ### Muted Science
 A creative technology project focused on experimental systems, digital tools, and visual/business infrastructure.
 
+**Website:** https://mutedscience.com  
 **GitHub:** https://github.com/moonman89/muted-science
 
 ### Creative Direction + Production
@@ -69,6 +70,7 @@ AI-powered workflow and operations systems for companies that need cleaner execu
 ### Muted Science
 Experimental creative-tech work combining systems thinking, interface ideas, automation, and visual direction.
 
+**Website:** https://mutedscience.com  
 **Repository:** https://github.com/moonman89/muted-science
 
 ---
@@ -121,7 +123,8 @@ That means I can help shape the visual idea, organize the production, understand
 
 **Email:** mutedscience@icloud.com  
 **Morrowgrid:** https://morrowgrid.com  
-**Muted Science:** https://github.com/moonman89/muted-science  
+**Muted Science:** https://mutedscience.com  
+**Muted Science GitHub:** https://github.com/moonman89/muted-science  
 **GitHub:** https://github.com/moonman89
 
 ---
