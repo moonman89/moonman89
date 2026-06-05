@@ -62,15 +62,34 @@ My strength is turning messy operational problems into clear technical systems: 
 
 ## Projects
 
+### RALLY-E
+AI-powered sourcing, vendor, prototype, and testing execution for specialty motorcycle programs. Next.js + TypeScript + Tailwind, Supabase, optional OpenAI for spec extraction and vendor search.
+
+**Live site:** https://rally-e.vercel.app  
+**Repository:** https://github.com/moonman89/rally-e
+
+### GhostToGhost
+Telegram-style anonymous messaging app — pick a username, direct or group chats, real-time text and images, typing indicators and read receipts. Next.js + Firebase (Auth, Firestore, Storage, Cloud Functions, FCM).
+
+**Live app:** https://ghosttoghost.web.app  
+**Repository:** https://github.com/moonman89/ghosttoghost
+
+### Metelyk — Tea Shop & Catalog
+English-language upscale tea storefront and product archive for the Metelyk brand (rebuilt from Syorb). React + Vite + TypeScript, Firebase Firestore and Storage, e-commerce-ready catalog.
+
+**Live site:** https://metelyk-shop.web.app/  
+**Repository:** https://github.com/moonman89/metelyk
+
+### Portfolio / Resume Website
+React-based presentation website with slide-style resume pages, technical stack sections, Instagram feed, and Firebase AI assistant.
+
+**Live site:** https://edward-night-resume.web.app  
+**Repository:** https://github.com/moonman89/edward-night-resume
+
 ### GitHub Profile
 Public profile and project archive for AI workflow experiments, creative technology builds, frontend work, and portfolio infrastructure.
 
 **GitHub:** https://github.com/moonman89
-
-### Portfolio / Resume Website
-React-based presentation website with slide-style resume pages, technical stack sections, rotating UI elements, and portfolio navigation.
-
-**Repository:** https://github.com/moonman89/edward-night-resume
 
 ---
 
