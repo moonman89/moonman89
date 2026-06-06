@@ -33,63 +33,59 @@ My strength is turning messy operational problems into clear technical systems: 
 
 ## Technical Stack
 
+*Consolidated from shipped projects + broader capabilities.*
+
 ### Web Frontend
-- React
-- Flutter
-- Vanilla Javascript / HTML
-- Figma
+React · Next.js · TypeScript · Tailwind CSS · Vite · Flutter · Vanilla JavaScript / HTML · Figma
 
 ### Backend
-- NodeJS
-- Python
-- Java
-- C# .NET
+Node.js · Cloud Functions · Supabase · Python · Java · C# .NET
 
-### Google Cloud
-- Firebase
-- Cloud Run
-- Vertex AI
-- AI Studio
+### Firebase / Google Cloud
+Firebase Auth · Firestore · Firebase Storage · Firebase Hosting · Cloud Functions · Cloud Run · Vertex AI · AI Studio · FCM
 
-### AI Tools
-- Google Antigravity
-- Cursor
-- Gemini 3.5
-- Opus 4.8
-- Sonnet 4.6
+### AI & Integrations
+OpenAI · Instagram Graph API · Zod
+
+### Deploy & Dev Tools
+Vercel · GitHub Pages · Cursor · Gemini 3.5 · Opus 4.8 · Sonnet 4.6 · Google AI coding tools
 
 ---
 
 ## Projects
 
 ### RALLY-E
-AI-powered sourcing, vendor, prototype, and testing execution for specialty motorcycle programs. Next.js + TypeScript + Tailwind, Supabase, optional OpenAI for spec extraction and vendor search.
+AI-powered sourcing, vendor CRM, build wizard, RFQ flows, and proof tracking for specialty motorcycle programs.
+
+**Stack:** Next.js · TypeScript · Tailwind CSS · Supabase · OpenAI · Zod · Vercel
 
 **Live site:** https://rally-e.vercel.app  
 **Repository:** https://github.com/moonman89/rally-e
 
 ### GhostToGhost
-Telegram-style anonymous messaging app — pick a username, direct or group chats, real-time text and images, typing indicators and read receipts. Next.js + Firebase (Auth, Firestore, Storage, Cloud Functions, FCM).
+Telegram-style anonymous messaging — usernames, direct and group chats, real-time text and images, typing indicators, read receipts.
+
+**Stack:** Next.js · TypeScript · Tailwind CSS · Firebase Auth · Firestore · Cloud Functions · FCM · Firebase Hosting
 
 **Live app:** https://ghosttoghost.web.app  
 **Repository:** https://github.com/moonman89/ghosttoghost
 
 ### Metelyk — Tea Shop & Catalog
-English-language upscale tea storefront and product archive for the Metelyk brand (rebuilt from Syorb). React + Vite + TypeScript, Firebase Firestore and Storage, e-commerce-ready catalog.
+Upscale English tea storefront and product archive for the Metelyk brand — structured catalog, Firebase-backed data, AI tea assistant.
+
+**Stack:** React · Vite · TypeScript · React Router · Firestore · Firebase Storage · Cloud Functions · OpenAI · Firebase Hosting
 
 **Live site:** https://metelyk-shop.web.app/  
 **Repository:** https://github.com/moonman89/metelyk
 
 ### Portfolio / Resume Website
-React-based presentation website with slide-style resume pages, technical stack sections, Instagram feed, and Firebase AI assistant.
+Slide-style resume, Instagram work feed, rotating stack widget, and Firebase callable AI assistant.
 
-**Live site:** https://edward-night-resume.web.app  
+**Stack:** React · Vite · TypeScript · Cloud Functions · OpenAI · Firebase Hosting · Instagram Graph API · GitHub Pages
+
+**Live (Firebase):** https://edward-night-resume.web.app  
+**Live (GitHub Pages):** https://moonman89.github.io/edward-night-resume/  
 **Repository:** https://github.com/moonman89/edward-night-resume
-
-### GitHub Profile
-Public profile and project archive for AI workflow experiments, creative technology builds, frontend work, and portfolio infrastructure.
-
-**GitHub:** https://github.com/moonman89
 
 ---
 
@@ -103,6 +99,8 @@ Photography and design are not the main engineering focus, but they give me a st
 - Post-production direction across editing, color, image selection, and delivery
 - Tools: DaVinci Resolve, Photoshop, Capture One, Figma
 
+**Instagram:** https://instagram.com/studyofnight
+
 ---
 
 ## Where I Add Value
@@ -115,14 +113,12 @@ That means I can help shape the system, understand the business goal, plan the u
 
 ## Open To
 
-- IT engineering work
-- AI engineering and AI workflow architecture
+- IT engineering and AI workflow architecture
+- RALLY-E, GhostToGhost, Metelyk, and similar full-stack builds
 - React / Flutter frontend projects
 - Firebase, Cloud Run, Vertex AI, and AI Studio builds
-- Backend projects using NodeJS, Python, Java, or C# .NET
-- Internal tools, dashboards, and automation systems
-- Creative technology collaborations
-- Photography, design, and visual direction as secondary support skills
+- Backend projects using Node.js, Python, Java, or C# .NET
+- Internal tools, dashboards, business systems, and creative technology collaborations
 
 ---
 
