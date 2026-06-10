@@ -1,24 +1,26 @@
 # Edward Night
 
-**IT Engineer | AI Engineer | AI Systems Architect | Workflow Engineer | Full-Stack Product Builder**
+**AI Engineer | IT Engineer | Workflow Engineer | Full-Stack Product Builder | Creative Technologist**
 
-I build practical AI-powered systems, full-stack web tools, workflow automation, internal dashboards, creative technology systems, and cloud-backed applications. My lane is turning messy business ideas into usable products: user flows, backend logic, AI assistants, data models, deployment plans, and clean interfaces.
+I build AI-powered web tools, workflow systems, internal dashboards, creative technology experiments, and cloud-backed applications. My work sits between engineering, automation, product design, and visual systems.
+
+I turn rough ideas into usable products: clean interfaces, backend logic, AI assistants, structured data, deployment workflows, and practical systems people can operate.
 
 ## Core Stack
 
 **Frontend:** React, Next.js, Vite, TypeScript, JavaScript, Tailwind CSS, Framer, responsive UI, design systems.
 
-**Backend:** Node.js, Express, API routes, REST integrations, WebSockets, JSON workflows, environment variables, secrets handling.
+**Backend:** Node.js, Express, API routes, REST integrations, WebSockets, JSON workflows, environment variables.
 
-**AI:** OpenAI API, AI assistants, prompt systems, LLM workflows, structured outputs, workflow automation, agent-style command logic.
+**AI:** OpenAI API, AI assistants, prompt systems, LLM workflows, structured outputs, workflow automation.
 
-**Cloud & Data:** Firebase Hosting, Firestore, Cloud Functions, Cloud Storage, Firebase Storage, serverless deployment, data modeling, app hosting workflows.
+**Cloud & Data:** Firebase Hosting, Firestore, Cloud Functions, Cloud Storage, Firebase Storage, serverless deployment, data modeling.
 
-**Automation & Systems:** workflow design, onboarding systems, CRM-style tools, lead systems, dashboards, internal tools, document workflows, client intake tools.
+**Automation & Systems:** Workflow design, onboarding systems, CRM-style tools, dashboards, internal tools, document workflows, client intake tools.
 
 **Design & Creative Tech:** Figma, Photoshop, DaVinci Resolve, Premiere Pro, TouchDesigner, product design, interface design, creative direction, visual systems.
 
-**Dev Tools:** Git, GitHub, CLI workflows, deployment workflows, debugging, environment configuration, GitHub Pages, Vercel concepts.
+**Dev Tools:** Git, GitHub, CLI workflows, deployment workflows, debugging, GitHub Pages, Vercel concepts.
 
 ## What I Build
 
@@ -27,7 +29,6 @@ I build practical AI-powered systems, full-stack web tools, workflow automation,
 - Workflow automation systems
 - CRM-style tools
 - Client intake systems
-- Lead qualification tools
 - AI assistants and copilots
 - Creative technology experiments
 - Product prototypes
@@ -41,6 +42,6 @@ Building AI systems, workflow tools, full-stack product prototypes, and creative
 
 ## Builder Identity
 
-I work across engineering, design, media, and automation. My strength is not only writing code. It is seeing the full system: the interface, the workflow, the user, the data, the backend, the AI layer, and the final presentation.
+I work across engineering, design, media, and automation. My strength is seeing the full system: the interface, the workflow, the user, the data, the backend, the AI layer, and the final presentation.
 
-Build the system. Ship the tool. Make it usable.
+**Build the system. Ship the tool. Make it usable.**
